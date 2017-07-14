@@ -34,9 +34,7 @@
 		}
 	]
 
-Note : create multiple objects in json array, minimum of 100 objects. Create a simple json array using javascript loop and 
-
-convert to json string using json stringify
+Note : create multiple objects in json array, minimum of 100 objects. Create a simple json array using javascript loop and convert to json string using json stringify
 
 
 4. List should intially show only firstname, lastname, email, location, phone, current_class, address and options to "show moredetails", "edit", "delete". once a change is made it should update the localStorage as well.
